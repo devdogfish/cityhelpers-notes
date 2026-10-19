@@ -8,7 +8,7 @@ import time
 from hashlib import sha256
 
 root = Path(__file__).resolve().parent
-base = 'https://devdogfish.github.io/cityhelpers'
+base = 'https://devdogfish.github.io/cityhelpers-notes'
 build = json.loads((root / '_data/publication.json').read_text())['id']
 notes = json.loads((root / '_data/notes.json').read_text())
 groups = [g['label'] for g in json.loads((root / '_data/navigation.json').read_text())]
@@ -60,7 +60,7 @@ def verify(path):
         page = Page()
         page.feed(result.stdout)
         if result.returncode == 0 and page.marker == build:
-            missing = [p for p in pages if '/cityhelpers' + p not in page.nav_links]
+            missing = [p for p in pages if '/cityhelpers-notes' + p not in page.nav_links]
             if missing:
                 raise RuntimeError(f'{path}: navigation missing {missing}')
             if page.groups != groups:
@@ -68,7 +68,7 @@ def verify(path):
             if 'noindex' not in page.robots:
                 raise RuntimeError(f'{path}: missing search indexing opt-out')
             if path == '/sources.html':
-                expected = {'/cityhelpers' + source[key] for source in sources
+                expected = {'/cityhelpers-notes' + source[key] for source in sources
                             if source['kind'] == 'source' for key in ('url', 'text_url') if key in source}
                 if not expected.issubset(page.download_links):
                     raise RuntimeError(f'Sources missing download links: {expected - page.download_links}')

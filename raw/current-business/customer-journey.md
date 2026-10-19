@@ -94,4 +94,4 @@ The [published terms](https://www.cityhelpers.ca/terms-and-conditions) describe 
 
 **Pricing inconsistency:** the pricing-page snapshot recorded $9.99 dispatch offers for homeowners and businesses, while the [introduction](business-context.md) records earlier $99/month and $999/year business plans. Subscription language also appears elsewhere. Confirm the offer used at checkout and by sales representatives before treating either as settled. [Pricing page](https://www.cityhelpers.ca/pricing-plans/plans-pricing).
 
-See [business objectives](business-objectives.md) for measurement gaps, [Q&A](open-questions.md) for pending questions, and the [CEO discussion transcript](https://devdogfish.github.io/cityhelpers/raw/source-material/ceo-discussion-transcript.txt) for the project discussion.
+See [business objectives](business-objectives.md) for measurement gaps, [Q&A](open-questions.md) for pending questions, and the [CEO discussion transcript](https://devdogfish.github.io/cityhelpers-notes/raw/source-material/ceo-discussion-transcript.txt) for the project discussion.

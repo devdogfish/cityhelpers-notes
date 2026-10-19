@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 cd "$(dirname "$0")"
-repo='devdogfish/cityhelpers'
-site_url='https://devdogfish.github.io/cityhelpers/'
+repo='devdogfish/cityhelpers-notes'
+site_url='https://devdogfish.github.io/cityhelpers-notes/'
 # Keep output in the terminal; never open a pager or interactive prompt.
 export GH_PAGER=cat GIT_PAGER=cat PAGER=cat GH_PROMPT_DISABLED=1
 unset GH_FORCE_TTY

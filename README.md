@@ -1,8 +1,8 @@
 # City Helpers team notes
 
-Live site: https://devdogfish.github.io/cityhelpers/
+Live site: https://devdogfish.github.io/cityhelpers-notes/
 
-Standalone landing-page preview: https://devdogfish.github.io/cityhelpers/landing-page/
+Standalone landing-page preview: https://devdogfish.github.io/cityhelpers-notes/landing-page/
 Its HTML, CSS, JavaScript, and assets live in `landing-page/` and render outside the team-notes layout. Edit the prototype in `../work/landing-page/`; `./publish.sh` copies its web files into this repository before publishing.
 
 ## Edit and publish
@@ -38,7 +38,7 @@ The command discovers the notes, generates pages and navigation, commits and pus
 - Edit original notes in the project folders: the copies inside `site/` are generated and overwritten on publishing.
 - Logo and design live in `assets/` and `_layouts/`. Website changes in this repository are included in publishing.
 
-Requires Python 3, Poppler (`pdftotext`), Git, GitHub CLI (`gh`) authenticated with access to `devdogfish/cityhelpers`, and curl. GitHub performs the Jekyll build; no local Ruby or Node installation is needed. If the remote contains changes missing locally, the command stops and asks you to reconcile them before publishing.
+Requires Python 3, Poppler (`pdftotext`), Git, GitHub CLI (`gh`) authenticated with access to `devdogfish/cityhelpers-notes`, and curl. GitHub performs the Jekyll build; no local Ruby or Node installation is needed. If the remote contains changes missing locally, the command stops and asks you to reconcile them before publishing.
 
 `python3 test-sync-notes.py` verifies folder discovery, ordering, stable URLs after moves, cross-links, private-file exclusions, duplicate rejection, and deleted-page cleanup. Publishing runs these tests first and verifies folder navigation on every live page afterward.
 

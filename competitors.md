@@ -1,6 +1,6 @@
 ---
 title: "Competitors"
-updated: "2026-09-22"
+updated: "2026-10-19"
 ---
 
 *Research checked 22 September 2026. Focus: household help for seniors in Toronto/GTA and Nova Scotia, especially Halifax. Provider claims below describe advertised offers, not independently tested service quality or availability.*
@@ -29,7 +29,7 @@ Coverage below describes the markets reviewed, not every location a provider ser
 
 Better Living's [April 2026 fee schedule](https://mybetterliving.ca/wp-content/uploads/2026/04/HOME-MAINTENANCE-FEE-SCHEDULE-Updated-April-2026-1-1.pdf) lists starting prices of **$30/hour for one-worker handyman tasks**, **$43.50 per one-time lawn or snow visit**, and **$143/month for weekly lawn care**. Scope and geographic restrictions apply. These are useful benchmarks, not comparable quotes: City Helpers' advertised $9.99 dispatch fee excludes labour. A credible price comparison must include the same task, time, materials, minimum charges, and taxes.
 
-Other alternatives include family, an existing helper, or neighbours advertising inside a condo—the last comes from [Erick's pre-meeting assumptions](https://devdogfish.github.io/cityhelpers/raw/source-material/erick-pre-meeting-ideas.txt), not measured customer behaviour. Toronto also [directs seniors to maintenance agencies through 211](https://www.toronto.ca/community-people/children-parenting/seniors-services/seniors-health-services/), where fees and possible subsidies vary. Research should ask whom customers already trust, including options outside commercial platforms.
+Other alternatives include family, an existing helper, or neighbours advertising inside a condo—the last comes from [Erick's pre-meeting assumptions](https://devdogfish.github.io/cityhelpers-notes/raw/source-material/erick-pre-meeting-ideas.txt), not measured customer behaviour. Toronto also [directs seniors to maintenance agencies through 211](https://www.toronto.ca/community-people/children-parenting/seniors-services/seniors-health-services/), where fees and possible subsidies vary. Research should ask whom customers already trust, including options outside commercial platforms.
 
 ## What this suggests for our proposal
 

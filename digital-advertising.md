@@ -1,6 +1,6 @@
 ---
 title: "Facebook ads"
-updated: "2026-09-22"
+updated: "2026-10-19"
 ---
 
 Facebook is a candidate channel for the senior audience, supported by the population-level research in [target audience](target-audience.html). That research does not predict City Helpers conversions or acquisition cost.
@@ -11,4 +11,4 @@ The meeting suggested tailoring ads to different groups and showing a senior enj
 
 **Suggested first implementation:** one Facebook campaign, one service area, one offer, a capped budget, and a working booking path. Check the message with prospective customers before spending; compare a second message when volume permits meaningful interpretation. Track enquiries, paid dispatches, completed jobs, and acquisition cost rather than clicks alone. Pause if requests cannot be served or spending exceeds the agreed cap.
 
-Unknowns: available budget, account access, baseline conversion, worker coverage, and allowable acquisition cost. Source: [team meeting transcript](https://devdogfish.github.io/cityhelpers/raw/source-material/team-meeting-01-transcript.txt) and the original hackathon brief. See [customer research](customer-research.html) and [website](website-and-booking.html).
+Unknowns: available budget, account access, baseline conversion, worker coverage, and allowable acquisition cost. Source: [team meeting transcript](https://devdogfish.github.io/cityhelpers-notes/raw/source-material/team-meeting-01-transcript.txt) and the original hackathon brief. See [customer research](customer-research.html) and [website](website-and-booking.html).

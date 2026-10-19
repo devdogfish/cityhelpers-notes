@@ -1,6 +1,6 @@
 ---
 title: "Operational workflow"
-updated: "2026-09-22"
+updated: "2026-10-19"
 ---
 
 **Find a worker → agree the job → deliver → close.** Continue from the [customer journey](customer-journey.html). Blue boxes carry the main route; grey boxes supply workers; diamonds are decisions; red boxes show exceptions; green marks handoff or completion. Dashed arrows indicate handling needing confirmation. This maps the stated business process, not verified software or automation.
@@ -86,4 +86,4 @@ flowchart TB
 
 **What is not established:** an automatic matching algorithm, live availability checks, skill verification rules, response deadlines, or guaranteed fulfilment. The team proposed worker skill checkboxes and customer preferences; these remain improvements to investigate, not existing system capabilities. A replacement restarts matching; an unresolved case requires an operational decision, not an assumed refund or successful completion.
 
-**Sources:** [customer journey](customer-journey.html), [business context](context.html), [website and booking observations](website-and-booking.html), [open questions](open-questions.html), and [CEO discussion transcript](https://devdogfish.github.io/cityhelpers/raw/source-material/ceo-discussion-transcript.txt). These notes reference the published service terms and team discussion; internal operations have not been observed.
+**Sources:** [customer journey](customer-journey.html), [business context](context.html), [website and booking observations](website-and-booking.html), [open questions](open-questions.html), and [CEO discussion transcript](https://devdogfish.github.io/cityhelpers-notes/raw/source-material/ceo-discussion-transcript.txt). These notes reference the published service terms and team discussion; internal operations have not been observed.

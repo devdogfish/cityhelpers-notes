@@ -1,6 +1,6 @@
 # Rewards and referrals
 
-Erick proposed **CityHelpers Rewards (CHR)** and **CityHelpers Partners (CHP)** before team meeting 1. His [original message](https://devdogfish.github.io/cityhelpers/raw/source-material/erick-pre-meeting-ideas.txt) supplies the programme details referenced in the meeting. The aim is to encourage customers and workers to introduce new customers and keep using the service.
+Erick proposed **CityHelpers Rewards (CHR)** and **CityHelpers Partners (CHP)** before team meeting 1. His [original message](https://devdogfish.github.io/cityhelpers-notes/raw/source-material/erick-pre-meeting-ideas.txt) supplies the programme details referenced in the meeting. The aim is to encourage customers and workers to introduce new customers and keep using the service.
 
 ## Erick’s proposed programmes
 

@@ -5,7 +5,7 @@ from urllib.parse import quote
 import json
 import subprocess
 
-BASE = 'https://devdogfish.github.io/cityhelpers'
+BASE = 'https://devdogfish.github.io/cityhelpers-notes'
 
 SOURCE_DESCRIPTIONS = {
     'erick-pre-meeting-ideas.txt': ('Marketing ideas — Erick before team meeting 1',

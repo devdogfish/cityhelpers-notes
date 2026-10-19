@@ -10,7 +10,7 @@ const { chromium } = require('playwright');
   });
   try {
     const page = await browser.newPage();
-    await page.goto(process.argv[2] || 'https://devdogfish.github.io/cityhelpers/customer-journey.html');
+    await page.goto(process.argv[2] || 'https://devdogfish.github.io/cityhelpers-notes/customer-journey.html');
     await page.locator('.mermaid svg .node').first().waitFor({ timeout: 20000 });
     assert.equal(await page.locator('code.language-mermaid, .language-mermaid code').count(), 0,
       'Mermaid source was left unrendered');

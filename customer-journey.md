@@ -1,6 +1,6 @@
 ---
 title: "Customer journey"
-updated: "2026-09-22"
+updated: "2026-10-19"
 ---
 
 **Discover → understand → book → hand off.** Follow the blue boxes for the main household route. Grey boxes show alternative routes; diamonds are choices; red boxes are incomplete outcomes; green marks the handoff. Dashed arrows indicate unverified activity or handling. Choices represent customer behaviour, not confirmed website screens.
@@ -97,4 +97,4 @@ The [published terms](https://www.cityhelpers.ca/terms-and-conditions) describe 
 
 **Pricing inconsistency:** the pricing-page snapshot recorded $9.99 dispatch offers for homeowners and businesses, while the [introduction](context.html) records earlier $99/month and $999/year business plans. Subscription language also appears elsewhere. Confirm the offer used at checkout and by sales representatives before treating either as settled. [Pricing page](https://www.cityhelpers.ca/pricing-plans/plans-pricing).
 
-See [business objectives](objective.html) for measurement gaps, [Q&A](open-questions.html) for pending questions, and the [CEO discussion transcript](https://devdogfish.github.io/cityhelpers/raw/source-material/ceo-discussion-transcript.txt) for the project discussion.
+See [business objectives](objective.html) for measurement gaps, [Q&A](open-questions.html) for pending questions, and the [CEO discussion transcript](https://devdogfish.github.io/cityhelpers-notes/raw/source-material/ceo-discussion-transcript.txt) for the project discussion.

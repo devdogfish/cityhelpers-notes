@@ -129,12 +129,12 @@ class SyncTests(unittest.TestCase):
         verifier = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(verifier)
         page = verifier.Page()
-        page.feed('<nav aria-label="Notes"><a href="/cityhelpers/">Home</a></nav>'
-                  '<main><a href="/cityhelpers/sources.html">Sources</a></main>')
-        self.assertIn('/cityhelpers/sources.html', page.links)
-        self.assertNotIn('/cityhelpers/sources.html', page.nav_links)
-        page.feed('<nav aria-label="Notes"><a href="/cityhelpers/sources.html">Sources</a></nav>')
-        self.assertIn('/cityhelpers/sources.html', page.nav_links)
+        page.feed('<nav aria-label="Notes"><a href="/cityhelpers-notes/">Home</a></nav>'
+                  '<main><a href="/cityhelpers-notes/sources.html">Sources</a></main>')
+        self.assertIn('/cityhelpers-notes/sources.html', page.links)
+        self.assertNotIn('/cityhelpers-notes/sources.html', page.nav_links)
+        page.feed('<nav aria-label="Notes"><a href="/cityhelpers-notes/sources.html">Sources</a></nav>')
+        self.assertIn('/cityhelpers-notes/sources.html', page.nav_links)
 
 
 if __name__ == '__main__':
